@@ -62,12 +62,6 @@ ws.on('open', function() {
 })
 ```
 
-## Migrating to 3.x
-
-Departing from version 2.x, there's been some minor API changes. A breaking change is a server.eventList method, which is not a getter method anymore, because of the inclusion of a namespaces system throughout the library. Other methods will work seamlessly.
-
-Starting from version 3.1.0, we have also switched from `ws` to `uWebSockets`, because of a huge performance boost.
-
 ## Client
 
 ```js
