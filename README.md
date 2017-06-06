@@ -1,4 +1,4 @@
-# WebSockets with JSON RPC 2.0 support on top.
+# WebSockets with JSON RPC 2.0 support on top
 
 ## Installation
 
