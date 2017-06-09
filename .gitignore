@@ -1,15 +1,2 @@
-# Logs
-logs/
-*.log
-
-# Runtime data
-pids
-*.pid
-*.seed
-
-docs/
-db/
-
-docker/src/
-
+# Node modules
 node_modules/
